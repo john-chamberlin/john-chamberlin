@@ -4,7 +4,7 @@ Hi, I'm John. I am a web developer passionate about growing my skillset and deve
 
 
 - 🌱 I’m currently learning Nest.js
-- Currently most familiar/comfortable with React, Node, Next.js, TypeScript, Javascript, Python, and HTML/CSS
+- I'm the most familiar/comfortable with React, Node, Next.js, TypeScript, Javascript, Python, and HTML/CSS
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a big music nerd!
 - 📫 How to reach me:
