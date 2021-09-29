@@ -8,7 +8,7 @@ Hi, I'm John. I am a web developer passionate about growing my skillset and deve
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a big music nerd!
 - 📫 How to reach me:
-      [LinkedIn](https://www.linkedin.com/in/john-chamberlin-web/
-      johnchamberlin00@gmail.com
-      +1 (360) 947-1708
+      [LinkedIn](https://www.linkedin.com/in/john-chamberlin-web/,
+      email: johnchamberlin00@gmail.com,
+      phone: +1 (360) 947-1708
 
